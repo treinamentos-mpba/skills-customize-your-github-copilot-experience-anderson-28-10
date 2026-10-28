@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-api-testing",
+      "title": "Testes Automatizados para APIs FastAPI",
+      "description": "Test FastAPI endpoints with pytest and TestClient, covering success, validation, errors, and isolation.",
+      "path": "assignments/fastapi-api-testing",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "API inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
