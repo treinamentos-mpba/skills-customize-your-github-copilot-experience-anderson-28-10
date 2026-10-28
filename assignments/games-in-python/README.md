@@ -5,7 +5,7 @@
 
 Pratique manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória em Python, criando um jogo da Forca no qual o jogador tenta adivinhar uma palavra oculta.
 
-## 📝 TarefasCorreção
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
